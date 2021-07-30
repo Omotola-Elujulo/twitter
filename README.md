@@ -14,16 +14,28 @@ The following **required** functionality is completed:
 - [X] User stays logged in across restarts. (1pt)
 - [ ] User can view tweets with the user profile picture, username, and tweet text. (6pts)
 
-The following **bonus** features are implemented:
-
-- [ ] User can pull to refresh. (1pt)
-- [ ] User can load past tweets infinitely. (2pts)
-
-## Challenges
-- A lot of challenges getting the actual data from the API, no data was getting retrieved even with following the video walkthrough
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
 <img src='https://media.giphy.com/media/DmraCU3I4mtS6Ehm1B/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+# Twitter - Part II
+
+This is a basic twitter app to view, compose, favorite, and retweet tweets.
+
+Time spent: **5** hours spent in total
+
+## User Stories
+
+The following **required** functionality is completed:
+
+- [X] User can compose a tweet. (4pts)
+- [X] User can favorite a tweet. (4pts)
+- [X] User can retweet a tweet. (2pts)
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='https://media.giphy.com/media/iMet25IEeFANJKO47u/giphy.gif' title='Video Walkthrough 2' width='' alt='Video Walkthrough 2' />
