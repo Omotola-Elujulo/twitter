@@ -37,5 +37,5 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
+Link: https://media.giphy.com/media/iMet25IEeFANJKO47u/giphy.gif
 <img src='https://media.giphy.com/media/iMet25IEeFANJKO47u/giphy.gif' title='Video Walkthrough 2' width='' alt='Video Walkthrough 2' />
