@@ -21,7 +21,8 @@ Here's a walkthrough of implemented user stories:
 <img src='https://media.giphy.com/media/DmraCU3I4mtS6Ehm1B/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 # Twitter - Part II
-
+## Note - Open <img src='https://imgur.com/P3AuvT8' title='Link' width='' alt='Link' />
+ to View the Gif, it can't display here.
 This is a basic twitter app to view, compose, favorite, and retweet tweets.
 
 Time spent: **5** hours spent in total
@@ -37,5 +38,5 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-Link: https://media.giphy.com/media/DgmdlLNoF4yUBzk4si/giphy.gif
-<img src='https://media.giphy.com/media/DgmdlLNoF4yUBzk4si/giphy.gif' title='Video Walkthrough 2' width='' alt='Video Walkthrough 2' />
+Link: https://imgur.com/a/d6b2rMP
+<img src='https://imgur.com/a/d6b2rMP' title='Video Walkthrough 2' width='' alt='Video Walkthrough 2' />
