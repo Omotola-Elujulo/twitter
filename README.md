@@ -21,8 +21,8 @@ Here's a walkthrough of implemented user stories:
 <img src='https://media.giphy.com/media/DmraCU3I4mtS6Ehm1B/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 # Twitter - Part II
-## Note - Open <img src='https://imgur.com/P3AuvT8' title='Link' width='' alt='Link' />
- to View the Gif, it can't display here.
+## Note - Open to View the Gif, it can't display here. <img src='https://imgur.com/P3AuvT8' title='Link' width='' alt='Link' />
+
 This is a basic twitter app to view, compose, favorite, and retweet tweets.
 
 Time spent: **5** hours spent in total
